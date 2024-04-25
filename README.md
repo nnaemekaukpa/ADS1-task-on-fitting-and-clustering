@@ -1,1 +1,3 @@
-# ADS1-task-on-fitting-and-clustering
+The video game dataset contains a wide range of information related to the gaming business
+It provides information about the game's name, platform, release year, genre, publisher, and sales figures (in millions) for various areas.
+The analysis of the video game sales dataset demonstrates the potential for exponential growth in the industry over time. In addition, polynomial fitting reveals nuanced trends that may not be captured by linear models. These insights offer valuable implications for stakeholders in the gaming industry, informing strategic decisions and future investment opportunities.
